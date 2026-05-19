@@ -20,7 +20,7 @@ A full stack homework tracking web app built with Python, Flask, and vanilla Jav
 - Flask
 
 ### Installation
-git clone https://github.com/yourusername/hw-tracker-web
+git clone https://github.com/Zachary-Evans1/hw-tracker-web
 cd hw-tracker-web
 pip install flask
 python app.py
